@@ -4,12 +4,10 @@
 
 # To do
 
-## 1. Create Cookie Banner
-
 ## 2. Make or download legal Impressum
 
 ## 3. Add done projects
 
-## 4. Find hosting company
+## 4. Connect Website with hosting
 
 ## 5. Get Feedback from people on portfolio
