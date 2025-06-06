@@ -11,7 +11,7 @@ $title = "Projects";
     <h2>Final Project – SAE Institute Zurich (2025)</h2>
     <div class="projects__videos">
         <div class="homepage__content">
-            <video controls autoplay muted loop height="auto" width="380px">
+            <video controls autoplay muted loop>
                 <source src="/assets/videos/abschluss-projekt-2025.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>

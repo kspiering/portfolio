@@ -1,1 +1,8 @@
 ErrorDocument 404 /404.php
+
+RewriteEngine On
+
+# Entfernt .php aus der URL
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.+?)/?$ $1.php [L]
