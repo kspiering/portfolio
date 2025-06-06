@@ -110,8 +110,10 @@ ul.footer__content {
 
 }
 
+
 small {
     font-size: var(--font-size-mobile);
+    color: var(--background-color-lila);
 }
 
 /* Body Styling */
@@ -376,6 +378,21 @@ tr {
     width: 70%;
 }
 
+.projects__videos {
+    width: 70%;
+}
+
+.mein-video {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  display: block;
+  margin: 2rem auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+
 /* Titles */
 h1, h4 {
     color: var(--h1-color);
@@ -467,6 +484,8 @@ li, ul {
     nav.navigation.show {
         display: flex !important;
         flex-direction: column !important; /* <- sicherstellen, dass es als Spalte angezeigt wird */
+        justify-content: center;
+     align-items: center;
         margin-top: 4rem;
     }
 
@@ -482,6 +501,8 @@ li, ul {
  .navigation__content {
      display: flex;
      flex-direction: column;
+     justify-content: center;
+     align-items: center;
      gap: 2rem;
      
  }
