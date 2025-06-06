@@ -29,6 +29,8 @@ $title = "Projects";
 
 <section class="projects__main">
     <h2>Redesign – MPL AG (2025)</h2>
+    <p>I'm currently redesigning the website for MPL AG, a Swiss manufacturer of rugged, fanless industrial computers. The goal is to modernize the site while improving usability for a technical audience. The new design focuses on clearer navigation, better product accessibility, and a responsive layout that reflects MPL's precision engineering and long-term reliability.
+        My role includes UX/UI design, information architecture, programing and visual strategy.</p>
     <h3>Before & After</h3>
     <div class="projects__videos">
         <div class="homepage__content">
